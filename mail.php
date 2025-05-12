@@ -19,7 +19,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     }
 
     // Recipient email
-    $recipient = "tomeniomarklaurence4@gmail.com"; // Change to your email
+    $recipient = "info@telcovantage.com"; // Change to your email
 
     // Email subject
     $email_subject = "THIS EMAIL RECIEVE FROM TELCOVANTAGE WEBSITE WITH SUBJECT: $subject_input";
